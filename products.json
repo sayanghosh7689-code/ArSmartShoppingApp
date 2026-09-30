@@ -1,0 +1,107 @@
+[
+  {
+    "id": "p001",
+    "name": "Cotton T-Shirt",
+    "category": "clothing",
+    "rating": 4.3,
+    "num_reviews": 1520,
+    "review_summary": "Customers love the soft fabric and true-to-size fit, but a few report shrinkage after washing.",
+    "sustainability_score": 72,
+    "sustainability_notes": "Made from 100% organic cotton; dyed using low-water process.",
+    "allergens": [],
+    "price_range": "$15-25",
+    "keywords": [
+      "person",
+      "shirt"
+    ]
+  },
+  {
+    "id": "p002",
+    "name": "Leather Jacket",
+    "category": "clothing",
+    "rating": 4.6,
+    "num_reviews": 890,
+    "review_summary": "Praised for durability and classic styling; some find it runs slightly large.",
+    "sustainability_score": 41,
+    "sustainability_notes": "Genuine leather has a high environmental footprint; consider vegan-leather alternatives.",
+    "allergens": [],
+    "price_range": "$120-250",
+    "keywords": [
+      "jacket"
+    ]
+  },
+  {
+    "id": "p003",
+    "name": "Peanut Butter Cookies (Packaged)",
+    "category": "food",
+    "rating": 4.1,
+    "num_reviews": 3200,
+    "review_summary": "Rich peanut flavor, though some find them overly sweet.",
+    "sustainability_score": 55,
+    "sustainability_notes": "Packaging is recyclable cardboard; palm oil sourcing not certified sustainable.",
+    "allergens": [
+      "peanuts",
+      "tree nuts (may contain traces)",
+      "gluten",
+      "soy"
+    ],
+    "price_range": "$3-5",
+    "keywords": [
+      "food",
+      "snack",
+      "box",
+      "package"
+    ]
+  },
+  {
+    "id": "p004",
+    "name": "Sneakers",
+    "category": "footwear",
+    "rating": 4.5,
+    "num_reviews": 5400,
+    "review_summary": "Comfortable for daily wear and running; cushioning wears down after ~6 months of heavy use.",
+    "sustainability_score": 63,
+    "sustainability_notes": "Upper made from recycled polyester; sole is non-recyclable EVA foam.",
+    "allergens": [],
+    "price_range": "$60-110",
+    "keywords": [
+      "shoe",
+      "sneaker"
+    ]
+  },
+  {
+    "id": "p005",
+    "name": "Greek Yogurt Cup",
+    "category": "food",
+    "rating": 4.4,
+    "num_reviews": 2100,
+    "review_summary": "Creamy texture and good protein content; some find the plastic cup wasteful.",
+    "sustainability_score": 48,
+    "sustainability_notes": "Single-use plastic cup, not widely recyclable in most municipal programs.",
+    "allergens": [
+      "milk"
+    ],
+    "price_range": "$1-2",
+    "keywords": [
+      "food",
+      "cup",
+      "container",
+      "bottle"
+    ]
+  },
+  {
+    "id": "p006",
+    "name": "Backpack",
+    "category": "accessory",
+    "rating": 4.7,
+    "num_reviews": 980,
+    "review_summary": "Spacious and durable, laptop compartment well-padded; zippers feel flimsy to a minority of users.",
+    "sustainability_score": 68,
+    "sustainability_notes": "Made from recycled nylon (rPET); water-resistant coating is PFC-free.",
+    "allergens": [],
+    "price_range": "$40-90",
+    "keywords": [
+      "backpack"
+    ]
+  }
+]
